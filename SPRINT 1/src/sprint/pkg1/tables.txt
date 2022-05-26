@@ -1,0 +1,2 @@
+NULL;mesa1,baja,5,noNULL;afaf,alta,13,noNULL;NULL;mesa2,baja,8,noNULL;NULL;
+mesa3,media,6,no
